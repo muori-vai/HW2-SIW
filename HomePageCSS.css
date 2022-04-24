@@ -1,0 +1,45 @@
+body{
+  font-family: Helvetica;
+  display: flex;
+  justify-content: center;
+}
+
+.left{
+  margin-right: 20px;
+}
+
+.right{
+  padding: 20px;
+  border: solid 1px navy;
+  background-color: lightgray;
+}
+
+h1{
+  color: navy;
+}
+
+h4{
+  background-color: darkcyan;
+  color: white;
+}
+
+img{
+  width: 250px;
+}
+
+a:link{
+  text-decoration: none;
+  color: navy;
+  font-weight: bold;
+}
+
+a:visited{
+  text-decoration: none;
+  color: navy;
+  font-weight: bold;
+}
+
+a:hover{
+  text-decoration: underline;
+  background-color: yellow;
+}
